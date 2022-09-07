@@ -1,7 +1,11 @@
-<h1 align="center">Hi there 👋 I'm Anthony Chao!</h1>
-<h3 align="center">Full Stack Software Engineer</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=800&color=81A1C0&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B+I'm+Anthony!)](https://git.io/typing-svg)
 
-<div align="center">
+I am an ex-accountant turned software engineer. I have experience building applications using Javascript, React, Redux, Ruby on Rails, and other technologies. I enjoy learning new things and making new connections!
+
+When I'm not coding, you can catch me trying new restaurants around the city, picking up a new instrument or just going for a long stroll.
+
+<h2>Technologies</h2>
+<div>
 <p> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
@@ -20,7 +24,7 @@
 <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
 </div>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=anthony-chao&show_icons=true&locale=en&layout=compact&theme=dracula" alt="anthony-chao" /></p>
-
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=anthony-chao&show_icons=true&locale=en&theme=dracula" alt="anthony-chao" /></p>
+<h2>Github Stats</h2>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=anthony-chao&show_icons=true&locale=en&layout=compact&theme=nord" alt="anthony-chao" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=anthony-chao&show_icons=true&locale=en&theme=nord" alt="anthony-chao" /></p>
 
