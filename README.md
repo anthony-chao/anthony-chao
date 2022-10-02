@@ -4,6 +4,8 @@ I am an ex-accountant turned software engineer. I have experience building appli
 
 When I'm not coding, you can catch me trying new restaurants around the city, picking up a new instrument or just going for a long stroll.
 
+[Check out my portfolio site!](https://anthony-chao.github.io/)
+
 <h2>Technologies</h2>
 <div>
 <p> 
